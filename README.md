@@ -10,3 +10,7 @@ Script en Python para calcular los primeros $n$ términos de la secuencia de Fib
 ```bash
 pip install -r requirements.txt
 python Seminario_CST_fibonacci.py
+
+## Visualización
+
+![Espiral de Fibonacci](fibonacci_espiral.png)
