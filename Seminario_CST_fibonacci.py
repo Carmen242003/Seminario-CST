@@ -1,3 +1,4 @@
+import matplotlib.patches as patches
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -57,3 +58,4 @@ if __name__ == "__main__":
     seq = generar_fibonacci(9)
     print(seq)
     dibujar_crecimiento(seq)
+    dibujar_espiral(seq)
